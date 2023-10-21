@@ -8,6 +8,7 @@ The first documentation of the problem was demonstrated in 2017 :
 See also :
 - https://en.wikipedia.org/wiki/Punycode
 - https://en.wikipedia.org/wiki/Website_spoofing
+
 Sadly, the problem still occurs nowadays and is actively exploited :
 - https://www.bleepingcomputer.com/news/security/fake-keepass-site-uses-google-ads-and-punycode-to-push-malware/
 
